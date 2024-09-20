@@ -1,0 +1,13 @@
+body{
+    background-color: #e8dcca;
+}
+h1 {
+    text-align: center;
+    font-size: 3em;
+}
+p {
+    color: saddlebrown;
+    font-style: oblique;
+    font-size: 2em;
+    text-align: center;
+}
